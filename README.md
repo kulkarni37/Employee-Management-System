@@ -126,33 +126,6 @@ http://127.0.0.1:5000
 
 ---
 
-## Screenshots
-
-### Home Page
-
-Add screenshot here
-
-### Add Employee
-
-Add screenshot here
-
-### Employee List
-
-Add screenshot here
-
-### Edit Employee
-
-Add screenshot here
-
-### Delete Employee
-
-Add screenshot here
-
-### Search Employee
-
-Add screenshot here
-
----
 
 ## Learning Outcomes
 
