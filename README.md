@@ -97,7 +97,7 @@ employee-management-system/
 ### Clone Repository
 
 ```bash
-git clone <repository-link>
+git clone <https://github.com/kulkarni37/Employee-Management-System.git>
 ```
 
 ### Navigate to Project Folder
